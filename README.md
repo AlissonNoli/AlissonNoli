@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlissonNoli
 - 👀 I’m interested in Learn how to be a good developer
-- 🌱 I’m currently learning Basics of Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Basics of Front-End with HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on news projects
 - 📫 How to reach me ...
 
 <!---
