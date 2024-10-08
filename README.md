@@ -30,7 +30,7 @@ O projeto visa proporcionar uma experiência de usuário intuitiva e eficiente, 
 
 ---
 
-✨ **Sinta-se à vontade para explorar meus projetos e me enviar uma mensagem!**
+ ## 🤝  [LinkedIn](https://www.linkedin.com/in/alisson-noli-135639260/)
 
 
 
