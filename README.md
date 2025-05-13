@@ -1,7 +1,5 @@
 # 👋 Alisson Noli da Silva
 
-## Sobre mim
-Estou em transição para a área de tecnologia após uma carreira militar. Tenho um forte interesse em contribuir para projetos de código aberto e aprender continuamente.
 
 ## Tecnologias
 - **Linguagens de Programação**: Python, JavaScript
@@ -9,26 +7,6 @@ Estou em transição para a área de tecnologia após uma carreira militar. Tenh
 - **Bancos de Dados**: SQL, NoSQL
 - **Ferramentas**: Git, Docker, Postman
 
-## Projetos
-
-### 1. Site para Aluguel de Carros [[LuxuryWheels](https://github.com/AlissonNoli/LuxuryWheels)]
-**Descrição**: Um sistema web para gerenciar o aluguel de carros, permitindo que os usuários visualizem, reservem e gerenciem veículos disponíveis para locação. 
-O projeto visa proporcionar uma experiência de usuário intuitiva e eficiente, tanto para locatários quanto para administradores.  
-
-**Tecnologias Usadas**: Python, Flask, SQL.
-
-#### Funcionalidades:
-- **Cadastro de usuários**: Permite que os usuários criem contas e gerenciem seus perfis.
-- **Catálogo de carros**: Exibe uma lista de carros disponíveis para aluguel com detalhes como modelo, ano, preço e fotos.
-- **Sistema de reservas**: Usuários podem reservar carros, especificando datas e horários.
-
- ## 🌱 O que estou aprendendo
-
-- Automação de testes
-- Melhores práticas em desenvolvimento web
-- ReactJS
-
----
 
  ## 🤝  [LinkedIn](https://www.linkedin.com/in/alisson-noli-135639260/)
 
