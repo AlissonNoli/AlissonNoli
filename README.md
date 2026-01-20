@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Alisson Noli da Silva!
+# 👋 Olá, eu sou o Alisson Noli!
 
 - 🎓 Licenciado em Gestão Pública, migrando para Tecnologia
 - 👨‍💻 Desenvolvedor focado em Back-End com Python
