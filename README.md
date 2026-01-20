@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alisson Noli!
 
-- 🎓 Licenciado em Gestão Pública, migrando para Tecnologia
+- 🎓 Licenciado em Gestão Pública
 - 👨‍💻 Desenvolvedor focado em Back-End com Python
 - 🌍 Experiência internacional: Brasil, França e Portugal
 - 🔎 Buscando criar soluções práticas, eficientes e organizadas
