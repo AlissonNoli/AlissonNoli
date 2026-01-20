@@ -47,6 +47,7 @@ Na **Triomphe Imo Invest**:
 
 ## 💡 Projetos em destaque
 
+- [Outvibe](https://outvibe.pt/): Website de personal trainer integrado a CRM e outros sistemas, customizado em Odoo.
 - [LuxuryWheels](https://github.com/AlissonNoli/LuxuryWheels): Sistema web de gestão de aluguer de carros (Flask, Python).
 
 ---
